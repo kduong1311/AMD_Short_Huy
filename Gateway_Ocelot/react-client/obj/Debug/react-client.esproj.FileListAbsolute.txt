@@ -1,0 +1,2 @@
+D:\workspace\FGW-AMD201\amd201-co1102\microservice\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\longndt amd201-co1102 main microservice (1)\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache
